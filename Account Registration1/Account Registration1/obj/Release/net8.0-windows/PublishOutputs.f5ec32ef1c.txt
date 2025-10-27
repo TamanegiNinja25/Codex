@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\publish\Account Registration1.exe
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\publish\Account Registration1.dll
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\publish\Account Registration1.deps.json
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\publish\Account Registration1.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\publish\Account Registration1.pdb

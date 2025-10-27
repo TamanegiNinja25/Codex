@@ -1,0 +1,18 @@
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\Account Registration1.exe
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\Account Registration1.deps.json
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\Account Registration1.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\Account Registration1.dll
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\bin\Release\net8.0-windows\Account Registration1.pdb
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account_Registration1.Form1.resources
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account_Registration1.Form2.resources
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account_Registration1.Properties.Resources.resources
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.csproj.GenerateResource.cache
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.AssemblyInfoInputs.cache
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.AssemblyInfo.cs
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.csproj.CoreCompileInputs.cache
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.dll
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\refint\Account Registration1.dll
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.pdb
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\Account Registration1.genruntimeconfig.cache
+C:\Users\稲村カルロ\source\repos\Account Registration1\Account Registration1\obj\Release\net8.0-windows\ref\Account Registration1.dll
