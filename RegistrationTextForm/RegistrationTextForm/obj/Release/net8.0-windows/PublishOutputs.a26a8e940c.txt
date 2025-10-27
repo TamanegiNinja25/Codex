@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\RegistrationTextForm\RegistrationTextForm\bin\Release\net8.0-windows\publish\RegistrationTextForm.exe
+C:\Users\稲村カルロ\source\repos\RegistrationTextForm\RegistrationTextForm\bin\Release\net8.0-windows\publish\RegistrationTextForm.dll
+C:\Users\稲村カルロ\source\repos\RegistrationTextForm\RegistrationTextForm\bin\Release\net8.0-windows\publish\RegistrationTextForm.deps.json
+C:\Users\稲村カルロ\source\repos\RegistrationTextForm\RegistrationTextForm\bin\Release\net8.0-windows\publish\RegistrationTextForm.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\RegistrationTextForm\RegistrationTextForm\bin\Release\net8.0-windows\publish\RegistrationTextForm.pdb
