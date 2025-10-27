@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\CashierApplication\CashierApplication\bin\Release\net8.0-windows\publish\CashierApplication.exe
+C:\Users\稲村カルロ\source\repos\CashierApplication\CashierApplication\bin\Release\net8.0-windows\publish\CashierApplication.dll
+C:\Users\稲村カルロ\source\repos\CashierApplication\CashierApplication\bin\Release\net8.0-windows\publish\CashierApplication.deps.json
+C:\Users\稲村カルロ\source\repos\CashierApplication\CashierApplication\bin\Release\net8.0-windows\publish\CashierApplication.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\CashierApplication\CashierApplication\bin\Release\net8.0-windows\publish\CashierApplication.pdb
