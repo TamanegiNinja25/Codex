@@ -1,0 +1,16 @@
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Debug\net8.0-windows\GuesstheWord.exe
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Debug\net8.0-windows\GuesstheWord.deps.json
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Debug\net8.0-windows\GuesstheWord.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Debug\net8.0-windows\GuesstheWord.dll
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Debug\net8.0-windows\GuesstheWord.pdb
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.Form1.resources
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.csproj.GenerateResource.cache
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.AssemblyInfoInputs.cache
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.AssemblyInfo.cs
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.csproj.CoreCompileInputs.cache
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.dll
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\refint\GuesstheWord.dll
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.pdb
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\GuesstheWord.genruntimeconfig.cache
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\obj\Debug\net8.0-windows\ref\GuesstheWord.dll

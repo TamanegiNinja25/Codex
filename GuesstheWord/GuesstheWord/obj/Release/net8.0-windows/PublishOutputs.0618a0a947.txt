@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Release\net8.0-windows\publish\GuesstheWord.exe
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Release\net8.0-windows\publish\GuesstheWord.dll
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Release\net8.0-windows\publish\GuesstheWord.deps.json
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Release\net8.0-windows\publish\GuesstheWord.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\GuesstheWord\GuesstheWord\bin\Release\net8.0-windows\publish\GuesstheWord.pdb

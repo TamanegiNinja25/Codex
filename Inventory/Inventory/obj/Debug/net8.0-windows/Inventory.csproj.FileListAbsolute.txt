@@ -1,0 +1,16 @@
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.exe
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.deps.json
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.dll
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.pdb
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.Form1.resources
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.GenerateResource.cache
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfoInputs.cache
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfo.cs
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.dll
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\refint\Inventory.dll
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.pdb
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.genruntimeconfig.cache
+C:\Users\稲村カルロ\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\ref\Inventory.dll
