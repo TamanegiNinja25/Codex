@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\publish\TPInteg_Inamura.exe
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\publish\TPInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\publish\TPInteg_Inamura.deps.json
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\publish\TPInteg_Inamura.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\publish\TPInteg_Inamura.pdb

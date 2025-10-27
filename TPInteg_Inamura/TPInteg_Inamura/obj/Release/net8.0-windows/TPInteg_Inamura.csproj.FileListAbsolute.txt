@@ -1,0 +1,17 @@
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\TPInteg_Inamura.exe
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\TPInteg_Inamura.deps.json
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\TPInteg_Inamura.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\TPInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\bin\Release\net8.0-windows\TPInteg_Inamura.pdb
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.Form1.resources
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.csproj.GenerateResource.cache
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.AssemblyInfoInputs.cache
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.AssemblyInfo.cs
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.csproj.CoreCompileInputs.cache
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\refint\TPInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.pdb
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.genruntimeconfig.cache
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\ref\TPInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\TPInteg_Inamura\TPInteg_Inamura\obj\Release\net8.0-windows\TPInteg_Inamura.Properties.Resources.resources
