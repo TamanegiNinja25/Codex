@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\publish\QuizInteg_Inamura.exe
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\publish\QuizInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\publish\QuizInteg_Inamura.deps.json
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\publish\QuizInteg_Inamura.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\publish\QuizInteg_Inamura.pdb

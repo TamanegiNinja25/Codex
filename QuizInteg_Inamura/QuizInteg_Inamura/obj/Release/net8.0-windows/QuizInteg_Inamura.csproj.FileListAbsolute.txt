@@ -1,0 +1,16 @@
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\QuizInteg_Inamura.exe
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\QuizInteg_Inamura.deps.json
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\QuizInteg_Inamura.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\QuizInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\bin\Release\net8.0-windows\QuizInteg_Inamura.pdb
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.Form1.resources
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.csproj.GenerateResource.cache
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.AssemblyInfoInputs.cache
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.AssemblyInfo.cs
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.csproj.CoreCompileInputs.cache
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\refint\QuizInteg_Inamura.dll
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.pdb
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\QuizInteg_Inamura.genruntimeconfig.cache
+C:\Users\稲村カルロ\source\repos\QuizInteg_Inamura\QuizInteg_Inamura\obj\Release\net8.0-windows\ref\QuizInteg_Inamura.dll
