@@ -1,0 +1,5 @@
+C:\Users\稲村カルロ\source\repos\EmployeeApplication\EmployeeApplication\bin\Release\net8.0-windows\publish\EmployeeApplication.exe
+C:\Users\稲村カルロ\source\repos\EmployeeApplication\EmployeeApplication\bin\Release\net8.0-windows\publish\EmployeeApplication.dll
+C:\Users\稲村カルロ\source\repos\EmployeeApplication\EmployeeApplication\bin\Release\net8.0-windows\publish\EmployeeApplication.deps.json
+C:\Users\稲村カルロ\source\repos\EmployeeApplication\EmployeeApplication\bin\Release\net8.0-windows\publish\EmployeeApplication.runtimeconfig.json
+C:\Users\稲村カルロ\source\repos\EmployeeApplication\EmployeeApplication\bin\Release\net8.0-windows\publish\EmployeeApplication.pdb
