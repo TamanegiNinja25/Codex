@@ -26,3 +26,9 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - name: Restore dependencies
+      run: dotnet restore <path-to-your.csproj-or-.sln>
+    - name: Build
+      run: dotnet build <path-to-your.csproj-or-.sln> --no-restore
+    - name: Test
+      run: dotnet test <path-to-your.csproj-or-.sln> --no-build --verbosity normal
